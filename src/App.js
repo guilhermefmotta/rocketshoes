@@ -20,7 +20,7 @@ function App() {
         <GlobalStyle />
         <ToastContainer autoClose={3000} />
       </BrowserRouter>
-      s
+      
     </Provider>
   );
 }
